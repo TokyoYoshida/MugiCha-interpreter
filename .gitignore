@@ -1,0 +1,12 @@
+y.tab.c
+
+*.bc
+*.ll
+y.tab.h
+lex.yy.c
+ast.yy.c
+*.o
+*.d
+mugicha
+mugicha_exec
+my_support
