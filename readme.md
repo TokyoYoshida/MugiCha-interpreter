@@ -1,7 +1,8 @@
-## Mugi Cha
+## Mugi Cha-interpreter
 
 Mugi Cha is Programing Language.<BR>
-This language has been inspired by the GO language and Scala.
+This repository forked from MugiCha.
+Originally, Mugicha implemented both compiler and interpreter, but decided to divide this.
 
 ## Sample Code
 
@@ -37,11 +38,6 @@ run the following command.
 ### for interpreter
 ```
 make run_interpreter
-```
-
-### for compiler
-```
-make run_compiler
 ```
 
 ## contribution
